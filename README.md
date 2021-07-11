@@ -107,7 +107,7 @@ Documento para empenho do débito da contribuição previdenciária devida ao RP
   * Cálculo automático dos valores de contribuição a partir das alíquotas, considerando as alíquotas Patronal, Patronal Suplementar e Segurado
   * Cálculos automáticos de Juros e Multa
   * Exibir informações de Sacado(Entidade), Sacador(RPPS), dados bancários, informações de Juros e Multas, conforme boletos convencionais
-  * Registrar pagamento da Guia, informando o tipo de quitação(quando parcial) e data de pagamento de
+  * Registrar pagamento da Guia, informando o tipo de quitação(quando parcial) e data de pagamento
   * Ao registrar o pagamento de uma Guia individual, os valores do campos Competência, Patronal e Segurado devem ser registrados no histórico de contribuição do sergurado juntamente com as informações das alíquotas de contribuição, na RhAPI 
 
 # Relatórios
