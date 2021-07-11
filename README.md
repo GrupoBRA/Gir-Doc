@@ -36,16 +36,19 @@ Documento para empenho do débito da contribuição previdenciária devida ao RP
   * Cálculo parcial dos valores conforme o lançamento
   * Marcar uma Guia paga: parcial ou completa
   * Ao 'pagar' uma Guia parcialmente, informar se o pagamento é referente ao valor Patronal ou Segurado e;
-  * Gerar uma nova Guia, com o valor não quitado de forma automática, com 
+  * Gerar uma nova Guia, com o valor não quitado de forma automática, com o saldo devedor da parte informada no passo anterior
   * Suporte para emissão de Guia com boleto e código de barras
 
 ## Descrição
   Patronal
     - A guia deve ser emitida considerando somente os valores da contribuição patronal(Órgão) + Custo Suplementar
+
   Segurado
     - A guia deve ser emitida considerando somente os valores da contribuição do segurados
+
   Completo
     - A guia deve ser emitida considerando os valores de contribuição do segurados e do Órgão somados
+
   Aporte
     - A guia deve ser emitida considerando somente os valores do campo Aporte
 
@@ -73,6 +76,7 @@ Documento para empenho do débito da contribuição previdenciária devida ao RP
 
   Patronal/Segurado/Individual
     - Devem ser informados os valores: Patronal, Suplementar, Segurado e Folhas
+
   Aporte
     - Devem ser informados somente os valores de Aporte
 
